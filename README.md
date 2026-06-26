@@ -47,7 +47,7 @@ Main features include:
 ├── Diabetes_Report.pdf         # Full project report
 ├── Presentation.pdf            # Project presentation
 ├── README.md
-└── figures/                    # Plots and images used in the report
+
 ```
 
 ---
